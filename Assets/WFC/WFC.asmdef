@@ -1,0 +1,7 @@
+{
+    "name": "WFC",
+    "rootNamespace": "WFC",
+    "references": [],
+    "autoReferenced": true,
+    "noEngineReferences": false
+}

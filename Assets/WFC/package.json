@@ -1,0 +1,7 @@
+{
+  "name": "com.dodgerf.wfc",
+  "version": "0.1.0",
+  "displayName": "WFC",
+  "description": "Процедурная генерация карты из комнат по маскам проходов.",
+  "unity": "6000.3"
+}
